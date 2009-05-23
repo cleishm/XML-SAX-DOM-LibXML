@@ -1,0 +1,12 @@
+Changes
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+TODO
+lib/XML/SAX/DOM/LibXML.pm
+t/00basic.t
+t/01parse.t
+t/02chain.t
+t/03cache.t
+t/TestDOMFilter.pm
+META.yml
